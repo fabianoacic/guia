@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RPC Curitiba HD">
+    <display-name lang="pt">RPC Curitiba HD</display-name>
+    <icon src="../canais/1578708233.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RPC Paranavaí HD">
+    <display-name lang="pt">RPC Paranavaí HD</display-name>
+    <icon src="../canais/1592300563.gif|../canais/1592302022.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <icon src="../canais/tvcamara-rp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
